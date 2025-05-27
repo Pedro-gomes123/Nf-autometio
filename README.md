@@ -29,7 +29,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone 
 Acesse a pasta do projeto:
 
 bash
@@ -69,19 +69,6 @@ Economia de tempo com automação de tarefas repetitivas.
 Redução de erros humanos no lançamento de dados.
 
 Facilidade na manipulação e análise das informações extraídas.
-
-🤝 Contribuição
-Contribuições são bem-vindas!
-Sinta-se à vontade para:
-
-Abrir Issues.
-
-Enviar Pull Requests.
-
-Sugerir melhorias.
-
-📄 Licença
-Este projeto está sob a licença MIT.
 
 📞 Contato
 Desenvolvedor: Pedro de Carvalho Gomes
