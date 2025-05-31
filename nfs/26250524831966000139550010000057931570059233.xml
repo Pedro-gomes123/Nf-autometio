@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe26250524831966000139550010000057931570059233" versao="4.00">
+      <ide>
+        <cUF>26</cUF>
+        <cNF>57005923</cNF>
+        <natOp>Vendas dentro do Estado</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>5793</nNF>
+        <dhEmi>2025-05-27T14:59:47-02:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>2611606</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>3</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>9</indPres>
+        <indIntermed>0</indIntermed>
+        <procEmi>0</procEmi>
+        <verProc>22.3</verProc>
+      </ide>
+      <emit>
+        <CNPJ>24831966000139</CNPJ>
+        <xNome>C E L COM. ATACAD.  DE MATERIAL ELETRICO LT</xNome>
+        <xFant>SG CONSTRUCAO</xFant>
+        <enderEmit>
+          <xLgr>AV INACIO MONTEIRO N. 767</xLgr>
+          <nro>0</nro>
+          <xBairro>CORDEIRO</xBairro>
+          <cMun>2611606</cMun>
+          <xMun>Recife</xMun>
+          <UF>PE</UF>
+          <CEP>50721275</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+          <fone>32263228</fone>
+        </enderEmit>
+        <IE>078325757</IE>
+        <CRT>1</CRT>
+      </emit>
+      <dest>
+        <CNPJ>04634004000182</CNPJ>
+        <xNome>CLIMOAR CLIMATIZACAO LTDA</xNome>
+        <enderDest>
+          <xLgr>RUA PROF SEVERINO JORDAO EMERENCIANO 71</xLgr>
+          <nro>0</nro>
+          <xBairro>IPUTINGA</xBairro>
+          <cMun>2611606</cMun>
+          <xMun>Recife</xMun>
+          <UF>PE</UF>
+          <CEP>50680070</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>8134530195</fone>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>029383676</IE>
+        <email>adm.climoarrecife@terra.com.br</email>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>1875</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>CURVA GALV LEVE 2</xProd>
+          <NCM>73071920</NCM>
+          <CEST>0100100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>27.50000</vUnCom>
+          <vProd>27.50</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>27.50</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>26212</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>9.38</vTotTrib>
+          <ICMS>
+            <ICMSSN500>
+              <orig>0</orig>
+              <CSOSN>500</CSOSN>
+              <vBCSTRet>0.00</vBCSTRet>
+              <pST>0.00</pST>
+              <vICMSSubstituto>0.00</vICMSSubstituto>
+              <vICMSSTRet>0.00</vICMSSTRet>
+            </ICMSSN500>
+          </ICMS>
+          <IPI>
+            <cEnq>314</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>27.50</vBC>
+              <pPIS>0.00</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>27.50</vBC>
+              <pCOFINS>0.00</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>1306</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>CAPACETE DE ALUMINIO 2</xProd>
+          <NCM>76090000</NCM>
+          <CEST>0100100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>PC</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>19.00000</vUnCom>
+          <vProd>19.00</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>PC</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>19.00</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>26212</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>6.48</vTotTrib>
+          <ICMS>
+            <ICMSSN500>
+              <orig>0</orig>
+              <CSOSN>500</CSOSN>
+              <vBCSTRet>0.00</vBCSTRet>
+              <pST>0.00</pST>
+              <vICMSSubstituto>0.00</vICMSSubstituto>
+              <vICMSSTRet>0.00</vICMSSTRet>
+            </ICMSSN500>
+          </ICMS>
+          <IPI>
+            <cEnq>314</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>19.00</vBC>
+              <pPIS>0.00</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>19.00</vBC>
+              <pCOFINS>0.00</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>0359</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>ARMACAO 1X1 PESADA</xProd>
+          <NCM>72122010</NCM>
+          <CEST>0100100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>PC</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>13.80000</vUnCom>
+          <vProd>13.80</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>PC</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>13.80</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>26212</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>4.71</vTotTrib>
+          <ICMS>
+            <ICMSSN102>
+              <orig>0</orig>
+              <CSOSN>102</CSOSN>
+            </ICMSSN102>
+          </ICMS>
+          <IPI>
+            <cEnq>314</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>13.80</vBC>
+              <pPIS>0.00</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>13.80</vBC>
+              <pCOFINS>0.00</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>2554</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>ISOLADOR ROLDANA 79X79</xProd>
+          <NCM>85469000</NCM>
+          <CEST>0100100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>PC</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>9.60000</vUnCom>
+          <vProd>9.60</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>PC</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>9.60</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>26212</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>3.72</vTotTrib>
+          <ICMS>
+            <ICMSSN500>
+              <orig>0</orig>
+              <CSOSN>500</CSOSN>
+              <vBCSTRet>0.00</vBCSTRet>
+              <pST>0.00</pST>
+              <vICMSSubstituto>0.00</vICMSSubstituto>
+              <vICMSSTRet>0.00</vICMSSTRet>
+            </ICMSSN500>
+          </ICMS>
+          <IPI>
+            <cEnq>314</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>9.60</vBC>
+              <pPIS>0.00</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>9.60</vBC>
+              <pCOFINS>0.00</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="5">
+        <prod>
+          <cProd>3237</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>HASTE DE ATERRAMENTO 5/8X2.40M 12,7MM</xProd>
+          <NCM>73269090</NCM>
+          <CEST>0100100</CEST>
+          <CFOP>5102</CFOP>
+          <uCom>PC</uCom>
+          <qCom>4.0000</qCom>
+          <vUnCom>54.90000</vUnCom>
+          <vProd>219.60</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>PC</uTrib>
+          <qTrib>4.0000</qTrib>
+          <vUnTrib>54.90</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>26212</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>74.93</vTotTrib>
+          <ICMS>
+            <ICMSSN102>
+              <orig>0</orig>
+              <CSOSN>102</CSOSN>
+            </ICMSSN102>
+          </ICMS>
+          <IPI>
+            <cEnq>314</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>219.60</vBC>
+              <pPIS>0.00</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>219.60</vBC>
+              <pCOFINS>0.00</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="6">
+        <prod>
+          <cProd>00058046</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>CONIMEL GRAMPO ATERRAMENTO GTDU 5/8</xProd>
+          <NCM>85359010</NCM>
+          <CEST>0100100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>PC</uCom>
+          <qCom>4.0000</qCom>
+          <vUnCom>8.00000</vUnCom>
+          <vProd>32.00</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>PC</uTrib>
+          <qTrib>4.0000</qTrib>
+          <vUnTrib>8.00</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>26212</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>10.92</vTotTrib>
+          <ICMS>
+            <ICMSSN500>
+              <orig>0</orig>
+              <CSOSN>500</CSOSN>
+              <vBCSTRet>0.00</vBCSTRet>
+              <pST>0.00</pST>
+              <vICMSSubstituto>0.00</vICMSSubstituto>
+              <vICMSSTRet>0.00</vICMSSTRet>
+            </ICMSSN500>
+          </ICMS>
+          <IPI>
+            <cEnq>314</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>32.00</vBC>
+              <pPIS>0.00</pPIS>
+              <vPIS>0.00</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>32.00</vBC>
+              <pCOFINS>0.00</pCOFINS>
+              <vCOFINS>0.00</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>0.00</vBC>
+          <vICMS>0.00</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>321.50</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>0.00</vPIS>
+          <vCOFINS>0.00</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>321.50</vNF>
+          <vTotTrib>110.14</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>9</modFrete>
+        <vol>
+          <qVol>0</qVol>
+          <nVol>000</nVol>
+          <pesoL>0.000</pesoL>
+          <pesoB>0.000</pesoB>
+        </vol>
+      </transp>
+      <cobr>
+        <fat>
+          <nFat>005793 1/1</nFat>
+          <vOrig>322.50</vOrig>
+          <vDesc>1.00</vDesc>
+          <vLiq>321.50</vLiq>
+        </fat>
+        <dup>
+          <nDup>001</nDup>
+          <dVenc>2025-06-24</dVenc>
+          <vDup>321.50</vDup>
+        </dup>
+      </cobr>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>321.50</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>SOLIC ANAILTON DOCUMENTO EMITIDO POR ME EPP OPTANTE PELO SIMPLES NACIONAL "NAO GERA DIREITO A CREDITO FISCAL DE IPI"</infCpl>
+      </infAdic>
+      <infRespTec>
+        <CNPJ>04020610000108</CNPJ>
+        <xContato>Waldemar Fonseca</xContato>
+        <email>conquest@conquest.com.br</email>
+        <fone>8134674414</fone>
+      </infRespTec>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe26250524831966000139550010000057931570059233">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>RlR5GFLkExXLg8oljm5VInTjZrY=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>OD8Wa2+8lH6EbjjXEhCKtSgPAj+ipwjaK7q9c3DAPnNTRMt/2eostAAMWWxMJVWz9fYbg+W2/AZnJnDT/RwAELDmVxOn+UbOD5u9+rt8qS9nspyOC8Uyt5w/oq7tsnylPTZZx2xu2WP9x20nmU6Kaebk3LG+3ph3dvxGhyLAbfVgfLjMQf888g17q8mcGg01DGNa245mFIGjD4x5+l9GUFd8fy+SiFv5/3tlO81fHz0WZgr73zHlHghemuDMaJ1U19eSoWYlFZ/TcJaUNHKZOH34ke6i1ZliYTO84hxpGYGsoBN2U+zXHqpEE5XIehC1r1NL1VGGn64vAbDqxt3p4A==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>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</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt Id="NFe126250052983919">
+      <tpAmb>1</tpAmb>
+      <verAplic>NFEPE_P_3.15.1</verAplic>
+      <chNFe>26250524831966000139550010000057931570059233</chNFe>
+      <dhRecbto>2025-05-27T14:59:50-03:00</dhRecbto>
+      <nProt>126250052983919</nProt>
+      <digVal>RlR5GFLkExXLg8oljm5VInTjZrY=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>
